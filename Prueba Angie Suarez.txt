@@ -1,0 +1,32 @@
+Prueba Angie Suarez 
+
+1. Lógica de programación:
+
+A=15 
+B=30 
+
+A= tem B 
+B= A 
+A = B 
+tem = B 
+
+Ponemos un temporal en la variable A para que no sobreponga los datos y poder cambiarlos, cambiamos la B y ya luego con el tem podemos reemplazar la B 
+
+2. Procesamiento y análisis de datos: 
+
+1. ¿Qué tipos de ataques generan el mayor impacto operativo y financiero en la organización?
+
+Se recomienda fortalecer todos los impactos en cada uno de los casos que se tengan en cuenta. 
+
+2. ¿Qué tan eficiente es el proceso de respuesta ante incidentes y cuáles son los principales cuellos de
+botella identificados?
+
+Muy poco eficiente, por la cantidad de datos que se tiene y como se van a anlizar
+
+3. ¿Cuáles son los riesgos más relevantes para el negocio y qué acciones deberían priorizarse para su
+mitigación?
+
+
+Los procesos de ciberseguridad que se están implementando en cada uno.
+
+Para cada uno de los procesos se tiene diferentes métodos de planificación y para esto se debe dar cada solución viable para la organización. 
